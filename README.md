@@ -60,3 +60,4 @@ Para que esse teste passe, você deve permitir que ao clicar no checkbox ao lado
 
 Como deve ficar a aplicação ao final?
 
+![kevin](https://user-images.githubusercontent.com/45858897/118920191-46975100-b90c-11eb-989b-d506d7bb710e.png)
