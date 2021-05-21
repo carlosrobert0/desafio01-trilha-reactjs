@@ -1,4 +1,4 @@
-# desafio01-trilha-reactjs
+# desafio01-trilha-reactjs | Desafio 01 - Conceitos do React
 
 # 💻 Sobre o desafio
 
